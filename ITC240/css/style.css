@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background:#ddd
+}
+header {
+    background: green;
+    height:200px;
+    width: 940px;
+
+}
+
+footer {
+    background: orange;
+    height: 50px;
+    width: 940px;
+}
+
+nav {
+    background: red;
+    height: 200px;
+    width: 940px;
+}
+
+main {
+    background: purple;
+    height: 300px;
+    width: 600px;
+    float: left;
+}
+
+aside {
+    background: brown;
+    height: 280px;
+    width: 340px;
+    float: right;
+}
+
+#wrapper {
+    background: blue;
+    width: 940px;
+    margin: 20px auto 20px auto;
+}
+
+#banner {
+    background: pink;
+    height: 250px;
+    width: 940px;
+
+}
+
